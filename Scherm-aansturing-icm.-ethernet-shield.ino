@@ -10,7 +10,7 @@
 // Enter a MAC address for your controller below.
 byte mac[] = {  0x00, 0xAA, 0xBB, 0xCC, 0xDE, 0x02 };
 char serverName[] = "www.xenydiensten.nl";
-int status = 0;
+int status = 1;
 String location = "/~smartmirror";
 
 
